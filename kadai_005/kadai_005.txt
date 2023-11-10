@@ -1,9 +1,0 @@
-top_side = 10 # 上底の定義
-bottom_side = 20 # 下底の定義
-height = 5 # 高さの定義
-
-# 以下、台形の面積を計算して計算結果を代入
-trapezoid = (top_side + bottom_side) * height / 2
-
-# 計算結果の表示
-print(f"{trapezoid} + cm²")
